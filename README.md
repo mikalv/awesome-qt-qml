@@ -76,6 +76,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [QmlExplorer](http://surfsky.github.io/QmlExplorer/) - A Qt QML running environment and examples explorer app.
 * [doxyqml](https://github.com/agateau/doxyqml) - Doxyqml turns .qml into pseudo-C++ which Doxygen can then use to generate documentation.
 * [Qmljsify](https://github.com/e-fever/qmljsify) - Convert an NPM package into a QML friendly JavaScript file.
+* [qml-quickstart](https://github.com/qaap/qml-kickstart) - QML kickstart boilerplate with live reload and HTTP caching.
 
 ## Editor Integration
 * [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for vim.
@@ -109,7 +110,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [qredux](https://github.com/benlau/qredux) - Redux for QML.
 * [qml_underscorejs](https://github.com/diro/qml_underscorejs) - A port of underscore.js to Qt/QML.
 * [react-qml](https://github.com/grassator/react-qml) - A bridge library that allows to use React.js with QML.
-
+* [qml-browserify](https://github.com/bhdouglass/qml-browserify) - Browserify for QML.
 
 ## JSON
 * [qsyncable](https://github.com/benlau/qsyncable) - A solution of nested Json List Model.
@@ -117,6 +118,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 
 ## Logging
 * [qmllogging](https://github.com/muflihun/qmllogging) - Single-header only, Easylogging++ wrapper for advanced logging support for QML applications (unmaintained).
+* [QmlLogger](https://github.com/prplmnky/QmlLogger) - Simple Javascript Based Logger For QML.
 
 ## Math
 * [biginteger](https://github.com/benlau/biginteger) - QML BigInteger library.
@@ -150,6 +152,8 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [aqt-cassowary](https://github.com/Ableton/aqt-cassowary) - Aqt.Cassowary (pronounced like Acute Cassowary) is a Qt plugin that allows you to run a incremental linear constraint solver in QML applications, providing a declarative interface that fits naturally in the QML programming model.
 * [qml-colorpicker](https://github.com/rshest/qml-colorpicker) - A basic colorpicker control made in Qt Quick/QML.
 * [qmltooltip](https://github.com/bobbaluba/qmltooltip) - A simple tooltip system for QML.
+* [QML-Code-editor](https://github.com/andeplane/QML-Code-editor) - A simple code editor using QML and c++.
+* [QmlPrinter](https://github.com/tanelipe/QmlPrinter) - Simple Qt component which allows user to print out a QML view from C++.
 
 ## Multimedia
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily.
