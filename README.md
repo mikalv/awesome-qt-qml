@@ -89,6 +89,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [qml-mode](https://github.com/cataska/qml-mode) - Qt Declarative UI (QML) mode for Emacs.
 * [Sublime-QML](https://github.com/skozlovf/Sublime-QML) - QML support for Sublime Text 2 and Sublime Text 3.
 * [intellij-qml](https://github.com/kropp/intellij-qml) - QML support for IntelliJ-based IDEs.
+* [atom-language-qml](https://github.com/rschiang/atom-language-qml) - QML language support for Atom.
 
 ## Game Engine
 * [Bacon2D](https://github.com/Bacon2D/Bacon2D) - Bacon2D is a framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
@@ -105,6 +106,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [qml-cvcamera](https://github.com/chili-epfl/qml-cvcamera) - CVCamera is a QML wrapper for fast camera access using OpenCV. It works on desktop and Android.
 * [pot](https://github.com/carlonluca/pot) - Raspberry Pi accelerated video/image rendering with Qt: custom QML components and QtMultimedia backend.
 * [QtJoysticks](https://github.com/alex-spataru/QJoysticks) - The QJoysticks library allows your Qt application to read input from both real joysticks/gamepads (using SDL) and a virtual joystick (using the keyboard).
+* [QmlPedalboard](https://github.com/danieloneill/QmlPedalboard) - A Udev rule, a tiny Arduino program, a Qml Component, and a test Qml app to interface a pedal board with QML.
 
 ## Images
 * [QML-Loaders](https://github.com/Furkanzmc/QML-Loaders) - Loading animation implementations in QML.
