@@ -6,7 +6,6 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
     - [Apple iOS](#apple-ios)
     - [Async](#async)
     - [Binding](#binding)
-    - [Build Systems](#build-systems)
     - [Compression](#compression)
     - [Cryptography](#cryptography)
     - [Database](#database)
@@ -16,6 +15,7 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
     - [Graphics](#graphics)
     - [Hardware](#hardware)
     - [Images](#images)
+    - [Javascript](#javascript)
     - [JSON](#json)
     - [Logging](#logging)
     - [Math](#math)
@@ -26,10 +26,12 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
     - [QML Spesific](#qml-spesific)
     - [SDKs](#SDKs)
     - [Styling](#styling)
+    - [Templates](#templates)
     - [Testing](#testing)
+    - [Visualization](#visualization)
     - [Web Frameworks](#web-frameworks)
     - [Web tech in QML](#web-tech-in-qml)
-    - [X11](#x11)
+    - [X11/Wayland](#x11-wayland)
 - [Software](#software)
 
 ## Android
@@ -53,11 +55,6 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
 * [qmlrs](https://github.com/cyndis/qmlrs) - qmlrs allows the use of QML/QtQuick code from Rust.
 * [ruby-qml](https://github.com/seanchas116/ruby-qml) - ruby-qml is a QML / Qt Quick wrapper for Ruby. It provides bindings between QML and Ruby and enables you to use Qt Quick-based GUI from Ruby.
 
-## Build Systems
-* [qtci](https://github.com/benlau/qtci) - Collection of scripts to build Qt application in command line environment.
-* [qpm-qt-creator-project-template](https://github.com/benlau/qpm-qt-creator-project-template) - Qt Creator Project Templates with qpm.
-* [quickflux-project-template](https://github.com/benlau/quickflux-project-template) - Project template using QuickFlux with unit tests.
-
 ## Compression
 * [KArchive](https://projects.kde.org/projects/frameworks/karchive) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice.
 
@@ -71,10 +68,13 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
 * [qml-livereload](https://github.com/penk/qml-livereload) - Simple QtQuick app live viewer.
 * [hotloader.pri](https://github.com/benlau/hotloader.pri) - Hot Reload QML Files.
 * [terrariumapp](http://www.terrariumapp.com/) - UI Prototyping Tool for Coders ([source](https://github.com/penk/terrarium-app)).
+* [qmlfmt](https://github.com/jesperhh/qmlfmt) - command line application that formats QML files.
+* [QmlExplorer](http://surfsky.github.io/QmlExplorer/) - A Qt QML running environment and examples explorer app.
 
 ## Editor Integration
 * [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for vim.
 * [qml-mode](https://github.com/cataska/qml-mode) - Qt Declarative UI (QML) mode for Emacs.
+* [Sublime-QML](https://github.com/skozlovf/Sublime-QML) - QML support for Sublime Text 2 and Sublime Text 3.
 
 ## Game Engine
 * [Bacon2D](https://github.com/Bacon2D/Bacon2D) - Bacon2D is a framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
@@ -89,6 +89,9 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
 * [qml-cvcamera](https://github.com/chili-epfl/qml-cvcamera) - CVCamera is a QML wrapper for fast camera access using OpenCV. It works on desktop and Android.
 
 ## Images
+
+## Javascript
+* [Node.qml](https://github.com/trollixx/node.qml) - Node.qml is an effort to provide a Node.js compatibility layer to QML applications.
 
 ## JSON
 * [qsyncable](https://github.com/benlau/qsyncable) - A solution of nested Json List Model.
@@ -108,16 +111,24 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
 * [qml-presentation-system](https://github.com/qt-labs/qml-presentation-system) - This is a slide presentation system written in QML.
 * [qtshell](https://github.com/benlau/qtshell) - Manipulate files by a shell command style API.
 * [sparkqml](https://github.com/benlau/sparkqml) - SparkQML - A QML Document Viewer for State and Transition Preview.
+* [qmlweb-parser](https://github.com/qmlweb/qmlweb-parser) - A QML parser in JavaScript.
+* [qml-creative-controls](https://github.com/jcelerier/qml-creative-controls) - QML controls for creative applications and creative coding.
+* [qtci](https://github.com/benlau/qtci) - Collection of scripts to build Qt application in command line environment.
+* [qml-gnatt](https://github.com/dinusv/qml-gantt) - QML Gantt - An efficient implementation of a gantt chart library for qml.
+* [qml-chilitags](https://github.com/chili-epfl/qml-chilitags) - QMLChilitags is a QML wrapper for the fiducial marker tracker Chilitags.
 
 ## Multimedia
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily.
 * [qmlvideo](https://github.com/longwei/qmlvideo) - QML video element backend by libVLC, rendered on gl texture.
+* [QmlVlcDemo](https://github.com/RSATom/QmlVlcDemo) - Simple demo app for QmlVlc lib.
+* [qmlmidi](https://github.com/jarnoh/qmlmidi) - MIDI plugin for Qt Quick. Enables using MIDI input or output devices from declarative QML.
 
 ## Networking
 * [libmaia](https://github.com/wiedi/libmaia) - libmaia is a easy-to-use XML-RPC library for Qt.
 * [libcommuni](http://communi.github.io/) - A cross-platform IRC framework written with Qt ([source](https://github.com/communi/libcommuni)).
 * [qxmpp](https://github.com/qxmpp-project/qxmpp) - Cross-platform C++ XMPP client and server library.
 * [qml-sockets](https://github.com/jemc/qml-sockets) - Exposing Qt's C++ socket objects to QML for declarative use.
+* [HttpRequest](https://github.com/qyvlik/HttpRequest) - HttpRequest such as XMLHttpRequest, but more powerful.
 
 ## Package Manager
 * [qpm](http://www.qpm.io/) - A package manager for Qt ([source](https://github.com/Cutehacks/qpm)).
@@ -130,18 +141,29 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
 
 ## SDKs
 * [arcgis-runtime-toolkit-qt](https://github.com/Esri/arcgis-runtime-toolkit-qt) - This project contains QML source code for controls and utilities you can use with the ArcGIS Runtime SDK for Qt.
+* [QtFirebase](https://github.com/Larpon/QtFirebase) - An effort to bring the Firebase C++ API to Qt + QML.
 
 ## Styling
 * [fluid](https://github.com/lirios/fluid) - Fluid is a collection of cross-platform QtQuick components for building fluid and dynamic applications.
 * [fontawesome.pri](https://github.com/benlau/fontawesome.pri) - Using FontAwesome in QML.
+* [font-awesome-qml](https://github.com/QMLCommunity/font-awesome-qml) - Font Awesome in QML (Qt Quick).
 * [qml-material](https://github.com/papyros/qml-material) - Material Design implemented in QtQuick.
 * [qml-bootstrap](https://github.com/brexis/qml-bootstrap) - Sweet Qml components inspired from Ionic framework style for mobile and desktop Qt/Qml projects.
 * [StratifyQML](https://github.com/StratifyLabs/StratifyQML) - Stratify Labs UI QML framework inspired by Twitter Bootstrap.
+* [FlatUI-Controls-QML](https://github.com/Druage/FlatUI-Controls-QML) - This is custom made and themed QML controls. The controls are made to look and behave just like Flat UI Toolkit.
+
+## Templates
+* [qpm-qt-creator-project-template](https://github.com/benlau/qpm-qt-creator-project-template) - Qt Creator Project Templates with qpm.
+* [quickflux-project-template](https://github.com/benlau/quickflux-project-template) - Project template using QuickFlux with unit tests.
+* [QMLApplicationTemplate](https://github.com/qCring/QMLApplicationTemplate) - CMake project template for a simple QML application.
 
 ## Testing
 * [qmlunit](https://github.com/fgrehm/qmlunit) - An easy-to-use Unit Testing framework for Qt Declarative UI - QML [unmaintained].
 * [testable](https://github.com/benlau/testable) - QT/QML Test Runner and Utilities.
 * [testrunner](https://github.com/benlau/testrunner) - Qt Test Runner - A tiny tool to execute multiple QTestLib application and combine the testing result into a summary report.
+
+## Visualization
+* [QuickVtk](https://github.com/qCring/QuickVtk) - A VTK prototyping application based on QtQuick/QML.
 
 ## Web Frameworks
 * [QDjango](http://qdjango.org/) - QDjango is a web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name.
@@ -151,8 +173,9 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
 * [qredux](https://github.com/benlau/qredux) - Redux for QML.
 * [react-qml](https://github.com/grassator/react-qml) - A bridge library that allows to use React.js with QML.
 
-## X11
+## X11/Wayland
 * [sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager.
+* [shell](https://github.com/lirios/shell) - QtQuick and Wayland shell for convergence.
 
 # Learning
 * [The QML Book](http://qmlbook.github.io/) - The QML Book. ([source](https://github.com/qmlbook/qmlbook))
