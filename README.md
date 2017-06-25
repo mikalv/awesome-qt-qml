@@ -23,7 +23,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
     - [Multimedia](#multimedia)
     - [Networking](#networking)
     - [Package Manager](#package-manager)
-    - [QML Spesific](#qml-spesific)
+    - [QML Specific](#qml-specific)
     - [SDKs](#SDKs)
     - [Styling](#styling)
     - [Templates](#templates)
@@ -194,6 +194,8 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [QmlVlcDemo](https://github.com/RSATom/QmlVlcDemo) - Simple demo app for QmlVlc lib.
 * [qmlmidi](https://github.com/jarnoh/qmlmidi) - MIDI plugin for Qt Quick. Enables using MIDI input or output devices from declarative QML.
 * [qml-recorder](https://github.com/sverzegnassi/qml-recorder) - A QML plugin for audio recording.
+* [Elisa](https://community.kde.org/Elisa) - Music Player
+* [Kamoso](https://github.com/KDE/kamoso) - Webcam Application
 
 ## Networking
 * [libmaia](https://github.com/wiedi/libmaia) - libmaia is a easy-to-use XML-RPC library for Qt.
@@ -208,11 +210,14 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [QtMqtt](https://github.com/toni1991/QtMqtt) - Qt and QML Mqtt Library.
 * [qml-soap](https://github.com/folibis/qml-soap) - qml-soap is simple SOAP client plugin created to use mostly with QML.
 * [qml-tcpsockets](https://github.com/chili-epfl/qml-tcpsockets) - QML wrappers for QTcpServer and QTcpSocket.
+* [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) Software to connect with Andriod phones. App and Plasmoid are both in QML.
+* [Liri](https://liri.io/apps/browser/) Web Browser
 
 ## Package Manager
 * [qpm](http://www.qpm.io/) - A package manager for Qt ([source](https://github.com/Cutehacks/qpm)).
+* [Discover](https://userbase.kde.org/Discover) - Package manager GUI, including Flatpaks
 
-## QML Spesific
+## QML Specific
 * [frida-qml](https://github.com/frida/frida-qml) - Frida Qml plugin.
 * [qmlc](https://github.com/qmlc/qmlc) - The Qml Compiler can be used to convert Qml source code files into precompiled Qml files. The precompiled Qml files are faster to load and do not expose the source code. Normally, the Qt either compiles the Qml files in the startup or interprets the Qml files runtime.
 * [viewstack.pri](https://github.com/benlau/viewstack.pri) - ViewStack is a wrapper of StackView (QQC2) that provides a stateless interface.
@@ -223,7 +228,8 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [QtFirebase](https://github.com/Larpon/QtFirebase) - An effort to bring the Firebase C++ API to Qt + QML.
 * [GATutorial-QML](https://github.com/lasconic/GATutorial-QML) - A simple integration of Google Analytics with Qt Quick for iOS and Android.
 * [social-connect-qml-plugin](https://github.com/microsoft-mobile/social-connect-qml-plugin) - This plug-in delivers an interface for Qt Quick developers for accessing the APIs of Facebook and Twitter that allow creating mobile applications powered by social media.
-* [QtAdMob](https://github.com/yevgeniy-logachev/QtAdMob) - QtAdMob is a C++ lib for Qt with QML support, which allows to show ads from AdMob on Android and iOS platforms.
+* [QtAdMob](https://github.com/yevgeniy-logachev/QtAdMob) - QtAdMob is a C++ lib for Qt with QML support, which allows to show ads from AdMob on Android and iOS platforms
+* [Kirigami](https://techbase.kde.org/Kirigami) - lightweight user interface framework for mobile and convergent applications
 
 ## Styling
 * [fluid](https://github.com/lirios/fluid) - Fluid is a collection of cross-platform QtQuick components for building fluid and dynamic applications.
@@ -262,6 +268,8 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 
 # Learning
 * [The QML Book](http://qmlbook.github.io/) - The QML Book. ([source](https://github.com/qmlbook/qmlbook))
+* [Gcompris](http://www.gcompris.net/index-en.html) - For Kids. 
+* [Ktouch](https://www.kde.org/applications/education/ktouch/) - Touch Typing Tutor
 
 # Software
 * [files](https://github.com/lirios/files) - File manager.
