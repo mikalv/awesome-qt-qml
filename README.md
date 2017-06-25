@@ -116,6 +116,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [qtci](https://github.com/benlau/qtci) - Collection of scripts to build Qt application in command line environment.
 * [qml-gnatt](https://github.com/dinusv/qml-gantt) - QML Gantt - An efficient implementation of a gantt chart library for qml.
 * [qml-chilitags](https://github.com/chili-epfl/qml-chilitags) - QMLChilitags is a QML wrapper for the fiducial marker tracker Chilitags.
+* [phoneME-QML](https://github.com/QKit/phoneME-QML/wiki) - QML interface for phoneME, which allows you to run Java MIDlets (JaveME, MIDP).
 
 ## Multimedia
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily.
@@ -151,6 +152,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [qml-bootstrap](https://github.com/brexis/qml-bootstrap) - Sweet Qml components inspired from Ionic framework style for mobile and desktop Qt/Qml projects.
 * [StratifyQML](https://github.com/StratifyLabs/StratifyQML) - Stratify Labs UI QML framework inspired by Twitter Bootstrap.
 * [FlatUI-Controls-QML](https://github.com/Druage/FlatUI-Controls-QML) - This is custom made and themed QML controls. The controls are made to look and behave just like Flat UI Toolkit.
+* [aqt-stylesheets](https://github.com/Ableton/aqt-stylesheets) - StylesSheets is a library for Qt/QML that allows you to apply CSS stylesheets to QML applications.
 
 ## Templates
 * [qpm-qt-creator-project-template](https://github.com/benlau/qpm-qt-creator-project-template) - Qt Creator Project Templates with qpm.
@@ -181,6 +183,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [The QML Book](http://qmlbook.github.io/) - The QML Book. ([source](https://github.com/qmlbook/qmlbook))
 
 # Software
+* [files](https://github.com/lirios/files) - File manager.
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
 * [Tiled](http://www.mapedito.org/) - Tiled is a general purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
 * [yubioath-desktop](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux).
