@@ -70,6 +70,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [terrariumapp](http://www.terrariumapp.com/) - UI Prototyping Tool for Coders ([source](https://github.com/penk/terrarium-app)).
 * [qmlfmt](https://github.com/jesperhh/qmlfmt) - command line application that formats QML files.
 * [QmlExplorer](http://surfsky.github.io/QmlExplorer/) - A Qt QML running environment and examples explorer app.
+* [doxyqml](https://github.com/agateau/doxyqml) - Doxyqml turns .qml into pseudo-C++ which Doxygen can then use to generate documentation.
 
 ## Editor Integration
 * [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for vim.
@@ -79,6 +80,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 ## Game Engine
 * [Bacon2D](https://github.com/Bacon2D/Bacon2D) - Bacon2D is a framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
 * [V-Play](http://v-play.net/) - V-Play Game Engine allows easy cross-platform mobile game development for all major platforms including iOS, Android, BlackBerry.
+* [QmlOgre](https://github.com/advancingu/QmlOgre) - Integrates Ogre3D into Qt QML scenes by rendering Ogre to FBOs.
 
 ## Graphics
 * [qml-box2d](https://github.com/qml-box2d/qml-box2d) - Box2D QML plugin.
@@ -117,6 +119,10 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [qml-gnatt](https://github.com/dinusv/qml-gantt) - QML Gantt - An efficient implementation of a gantt chart library for qml.
 * [qml-chilitags](https://github.com/chili-epfl/qml-chilitags) - QMLChilitags is a QML wrapper for the fiducial marker tracker Chilitags.
 * [phoneME-QML](https://github.com/QKit/phoneME-QML/wiki) - QML interface for phoneME, which allows you to run Java MIDlets (JaveME, MIDP).
+* [QtQuickVcp](https://github.com/qtquickvcp/QtQuickVcp) - A Virtual Control Panel for Machinekit written in Qt/C++/QML.
+* [qmlcore](https://github.com/pureqml/qmlcore) - QML to HTML5 translator, both for mobile and desktop targets.
+* [qml-handwriting](https://github.com/penk/qml-handwriting) - Open source handwriting recognition keyboard written in QML/JavaScript.
+* [SortFilterProxyModel](https://github.com/oKcerG/SortFilterProxyModel) - A nicely exposed QSortFilterProxyModel for QML.
 
 ## Multimedia
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily.
