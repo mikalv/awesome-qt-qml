@@ -259,6 +259,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [quickqanava](http://www.destrat.io/quickqanava/) - C++14 network/graph visualization library ([source](https://github.com/cneben/QuickQanava)).
 
 ## Web Frameworks
+* [Cutelyst](https://cutelyst.org/) - Cutelyst is a web framework written in C++11 and Qt, performant and inspired in the Perl Catalyst Web Framework. ([source](https://github.com/cutelyst/cutelyst))
 * [QDjango](http://qdjango.org/) - QDjango is a web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name.
 
 ## X11/Wayland
