@@ -210,8 +210,9 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [QtMqtt](https://github.com/toni1991/QtMqtt) - Qt and QML Mqtt Library.
 * [qml-soap](https://github.com/folibis/qml-soap) - qml-soap is simple SOAP client plugin created to use mostly with QML.
 * [qml-tcpsockets](https://github.com/chili-epfl/qml-tcpsockets) - QML wrappers for QTcpServer and QTcpSocket.
-* [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) Software to connect with Andriod phones. App and Plasmoid are both in QML.
-* [Liri](https://liri.io/apps/browser/) Web Browser
+* [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Software to connect with Andriod phones. App and Plasmoid are both in QML.
+* [Liri](https://liri.io/apps/browser/) - Web Browser
+* [QSsh](https://github.com/lvklabs/QSsh) - SSH and SFTP support for Qt. This project is based on Qt Creator's libQtcSsh.so
 
 ## Package Manager
 * [qpm](http://www.qpm.io/) - A package manager for Qt ([source](https://github.com/Cutehacks/qpm)).
