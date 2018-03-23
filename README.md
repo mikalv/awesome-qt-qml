@@ -213,6 +213,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Software to connect with Andriod phones. App and Plasmoid are both in QML.
 * [Liri](https://liri.io/apps/browser/) - Web Browser
 * [QSsh](https://github.com/lvklabs/QSsh) - SSH and SFTP support for Qt. This project is based on Qt Creator's libQtcSsh.so
+* [qtrest](https://github.com/qtrest/qtrest) - a small and simple REST API client for any Qt/QML application.
 
 ## Package Manager
 * [qpm](http://www.qpm.io/) - A package manager for Qt ([source](https://github.com/Cutehacks/qpm)).
