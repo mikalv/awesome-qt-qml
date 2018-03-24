@@ -201,7 +201,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [qml-recorder](https://github.com/sverzegnassi/qml-recorder) - A QML plugin for audio recording.
 * [Elisa](https://community.kde.org/Elisa) - Music Player
 * [Kamoso](https://github.com/KDE/kamoso) - Webcam Application
-
+* [Webvfx](http://rectalogic.github.io/webvfx/) - WebVfx is a video effects framework that allows video effects (filters, transitions etc.) authored using QtQuick
 ## Networking
 * [libmaia](https://github.com/wiedi/libmaia) - libmaia is a easy-to-use XML-RPC library for Qt.
 * [libcommuni](http://communi.github.io/) - A cross-platform IRC framework written with Qt ([source](https://github.com/communi/libcommuni)).
