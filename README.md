@@ -52,14 +52,19 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [quickfuture](https://github.com/benlau/quickfuture) - Using QFuture in QML.
 
 ## Binding
+* [Language Bindings](https://wiki.qt.io/Language_Bindings) - List of available bindings, maintained in the Qt Wiki
+* [Language Bindings](https://en.wikipedia.org/wiki/List_of_language_bindings_for_Qt_5) - List of language bindings, maintained on Wikipedia
+* [DOtherside](https://github.com/filcuc/DOtherSide) - C language library for creating bindings for the Qt QML language
+* [Bindgen](https://github.com/Papierkorb/bindgen/) - Binding and wrapper generator for C++ libraries, focused on Crystal
+* [qt5.cr](https://github.com/Papierkorb/qt5.cr) - Bindings to Crystal via Bindgen. 
 * [PyQt](http://www.riverbankcomputing.com/software/pyqt/) - PyQt is a set of Python v2 and v3 bindings for Qt and runs on all platforms supported by Qt including Windows, MacOS/X and Linux. PyQt5 supports Qt v5.
 * [PySide](http://qt-project.org/wiki/PySide) - The PySide project provides LGPL-licensed Python bindings for the Qt. It also includes complete toolchain for rapidly generating bindings for any Qt-based C++ class hierarchies.
 * [PyOtherSide](http://thp.io/2011/pyotherside/) - A Qt 5 QML Plugin that provides access to a Python 3 interpreter from QML.
-* [go-qml](https://github.com/go-qml/qml) - QML support for the Go language.
 * [go-qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS.
 * [qmlrs](https://github.com/cyndis/qmlrs) - qmlrs allows the use of QML/QtQuick code from Rust.
-* [ruby-qml](https://github.com/seanchas116/ruby-qml) - ruby-qml is a QML / Qt Quick wrapper for Ruby. It provides bindings between QML and Ruby and enables you to use Qt Quick-based GUI from Ruby.
 * [libqmlbind](https://github.com/seanchas116/libqmlbind) - A C library for creating QML bindings for other languages easily through exporting objects to QML.
+* [lablqml](https://github.com/Kakadu/lablqml) - Let's write QML/QtQuick GUI's for OCaml and Reason.
+
 
 ## Compression
 * [KArchive](https://projects.kde.org/projects/frameworks/karchive) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice.
