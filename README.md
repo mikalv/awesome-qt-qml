@@ -166,6 +166,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [Qt-Advanced-Docking-System](https://github.com/mfreiholz/Qt-Advanced-Docking-System) - Advanced Docking System for Qt.
 * [qtermwidget](https://github.com/lxde/qtermwidget) - The terminal widget for QTerminal.
 * [qmltermwidget](https://github.com/lirios/qmltermwidget) - This project is a QML port of qtermwidget.
+* [yat](https://github.com/jorgen/yat) - Terminal Emulator written in C++ and qml.
 * [qmlnotify](https://github.com/alamminsalo/qmlnotify) - Desktop notification server which implements org.freedesktop.Notifications, using modern Qt/Qml technologies.
 * [qml-slideshow](https://github.com/pkobrien/qml-slideshow) - QML Slideshow: the Declarative Hierarchical Finite Slide Machine & Toolkit.
 * [aqt-cassowary](https://github.com/Ableton/aqt-cassowary) - Aqt.Cassowary (pronounced like Acute Cassowary) is a Qt plugin that allows you to run a incremental linear constraint solver in QML applications, providing a declarative interface that fits naturally in the QML programming model.
