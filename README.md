@@ -90,6 +90,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [qml-quickstart](https://github.com/qaap/qml-kickstart) - QML kickstart boilerplate with live reload and HTTP caching.
 * [qmlscriptconsole](https://github.com/frankencode/qmlscriptconsole) - The QML Script Console.
 
+
 ## Editor Integration
 * [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for vim.
 * [qml-mode](https://github.com/cataska/qml-mode) - Qt Declarative UI (QML) mode for Emacs.
@@ -194,6 +195,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [SolarSystem](https://github.com/Instand/SolarSystem) - Solar system model based on Qt3D framework.
 * [QMLTreeView](https://github.com/arunpkqt/QMLTreeView) - QMl TreeView with custom folder list model in C++.
 
+
 ## Multimedia
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily.
 * [qmlvideo](https://github.com/longwei/qmlvideo) - QML video element backend by libVLC, rendered on gl texture.
@@ -279,6 +281,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [The QML Book](http://qmlbook.github.io/) - The QML Book. ([source](https://github.com/qmlbook/qmlbook))
 * [Gcompris](http://www.gcompris.net/index-en.html) - For Kids. 
 * [Ktouch](https://www.kde.org/applications/education/ktouch/) - Touch Typing Tutor
+* [RCSE](https://github.com/Rolisteam/rcse) - Rolisteam Character Sheet Editor : easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
 
 # Software
 * [files](https://github.com/lirios/files) - File manager.
@@ -293,3 +296,4 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [TelegramQML](https://github.com/Aseman-Land/TelegramQML) - Telegram API tools for QtQml and Qml. It's based on Cutegram-Core and libqtelegram.
 * [qmlvncviewer](https://github.com/heroyin/qmlvncviewer) - VNC viewer component by qt quick.
 * [harbour-sailfinder](https://github.com/modulebaan/harbour-sailfinder) - Sailfinder source code & bug tracker.
+* [Rolisteam](https://github.com/Rolisteam/rolisteam) - VirtualTableTop software to play Pen and paper role playing games.
