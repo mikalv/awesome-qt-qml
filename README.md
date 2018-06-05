@@ -90,7 +90,6 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [qml-quickstart](https://github.com/qaap/qml-kickstart) - QML kickstart boilerplate with live reload and HTTP caching.
 * [qmlscriptconsole](https://github.com/frankencode/qmlscriptconsole) - The QML Script Console.
 
-
 ## Editor Integration
 * [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for vim.
 * [qml-mode](https://github.com/cataska/qml-mode) - Qt Declarative UI (QML) mode for Emacs.
@@ -194,7 +193,6 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [QML-UI-Animations](https://github.com/Furkanzmc/QML-UI-Animations) - QML implementations of various UI concepts by various artists.
 * [SolarSystem](https://github.com/Instand/SolarSystem) - Solar system model based on Qt3D framework.
 * [QMLTreeView](https://github.com/arunpkqt/QMLTreeView) - QMl TreeView with custom folder list model in C++.
-
 
 ## Multimedia
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily.
