@@ -255,6 +255,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [quickflux-project-template](https://github.com/benlau/quickflux-project-template) - Project template using QuickFlux with unit tests.
 * [QMLApplicationTemplate](https://github.com/qCring/QMLApplicationTemplate) - CMake project template for a simple QML application.
 * [Qt-Qbs-Application](https://github.com/approximator/Qt-Qbs-Application) - Qt Qbs application boilerplate and useful scripts.
+* [mini-qml](https://github.com/patrickelectric/mini-qml) - A minimal example to deploy Qml applications for Windows, Linux and Mac with Travis and AppVeyor.
 
 ## Testing
 * [qmlunit](https://github.com/fgrehm/qmlunit) - An easy-to-use Unit Testing framework for Qt Declarative UI - QML [unmaintained].
