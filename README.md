@@ -280,6 +280,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [The QML Book](http://qmlbook.github.io/) - The QML Book. ([source](https://github.com/qmlbook/qmlbook))
 * [Gcompris](http://www.gcompris.net/index-en.html) - For Kids. 
 * [Ktouch](https://www.kde.org/applications/education/ktouch/) - Touch Typing Tutor
+* [RCSE](https://github.com/Rolisteam/rcse) - Rolisteam Character Sheet Editor : easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
 
 # Software
 * [files](https://github.com/lirios/files) - File manager.
@@ -294,3 +295,4 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [TelegramQML](https://github.com/Aseman-Land/TelegramQML) - Telegram API tools for QtQml and Qml. It's based on Cutegram-Core and libqtelegram.
 * [qmlvncviewer](https://github.com/heroyin/qmlvncviewer) - VNC viewer component by qt quick.
 * [harbour-sailfinder](https://github.com/modulebaan/harbour-sailfinder) - Sailfinder source code & bug tracker.
+* [Rolisteam](https://github.com/Rolisteam/rolisteam) - VirtualTableTop software to play Pen and paper role playing games.
