@@ -54,6 +54,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 ## Binding
 * [Language Bindings](https://wiki.qt.io/Language_Bindings) - List of available bindings, maintained in the Qt Wiki
 * [Language Bindings](https://en.wikipedia.org/wiki/List_of_language_bindings_for_Qt_5) - List of language bindings, maintained on Wikipedia
+* [Qml.Net](https://github.com/pauldotknopf/Qml.Net) - Qml.Net is cross-platform integration of Qml/QtQuick for .NET Core/.NET Framework/Mono. It is a binding that brings .NET types into JavaScript with full interoperability.
 * [DOtherside](https://github.com/filcuc/DOtherSide) - C language library for creating bindings for the Qt QML language
 * [Bindgen](https://github.com/Papierkorb/bindgen/) - Binding and wrapper generator for C++ libraries, focused on Crystal
 * [qt5.cr](https://github.com/Papierkorb/qt5.cr) - Bindings to Crystal via Bindgen. 
