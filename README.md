@@ -297,3 +297,4 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [qmlvncviewer](https://github.com/heroyin/qmlvncviewer) - VNC viewer component by qt quick.
 * [harbour-sailfinder](https://github.com/modulebaan/harbour-sailfinder) - Sailfinder source code & bug tracker.
 * [Rolisteam](https://github.com/Rolisteam/rolisteam) - VirtualTableTop software to play Pen and paper role playing games.
+* [IPConnect](https://github.com/shashwatdixit124/IPConnect) - P2P Chat and File Transfer Desktop Application.
