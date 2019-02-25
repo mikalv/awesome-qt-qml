@@ -197,6 +197,9 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [QMLTreeView](https://github.com/arunpkqt/QMLTreeView) - QMl TreeView with custom folder list model in C++.
 * [QQuickDock](https://github.com/unseon/QQuickDock) - Docking window for Qt Quick.
 * [nodeeditor](https://github.com/paceholder/nodeeditor) - Qt Node Editor. Dataflow programming framework.
+* [QtMvvm](https://github.com/Skycoder42/QtMvvm) - A mvvm oriented library for Qt, to create Projects for Widgets and Quick in parallel.
+* [QtRestClient](https://github.com/Skycoder42/QtRestClient) - A library for generic JSON-based REST-APIs, with a mechanism to map JSON to Qt objects.
+* [QtAutoUpdater](https://github.com/Skycoder42/QtAutoUpdater) - A Qt library to automatically check for updates and install them.
 
 
 ## Multimedia
