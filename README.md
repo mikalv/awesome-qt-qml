@@ -194,6 +194,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [QML-UI-Animations](https://github.com/Furkanzmc/QML-UI-Animations) - QML implementations of various UI concepts by various artists.
 * [SolarSystem](https://github.com/Instand/SolarSystem) - Solar system model based on Qt3D framework.
 * [QMLTreeView](https://github.com/arunpkqt/QMLTreeView) - QMl TreeView with custom folder list model in C++.
+* [QQuickDock](https://github.com/unseon/QQuickDock) - Docking window for Qt Quick.
 
 ## Multimedia
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily.
