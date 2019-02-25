@@ -310,3 +310,4 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 # Websites
 
 * [inqlude.org](https://inqlude.org) - Website that list a lot of Qt/QML projects.
+* [wiki.manjaro.org](https://wiki.manjaro.org/index.php?title=List_of_Qt_Applications) - The manjaro wiki has quie an Qt applications list.
