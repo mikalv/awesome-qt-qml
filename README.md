@@ -143,6 +143,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 
 ## Math
 * [biginteger](https://github.com/benlau/biginteger) - QML BigInteger library.
+* [QCustomPlot](https://www.qcustomplot.com/index.php/introduction) - is a Qt C++ widget for plotting and data visualization.
 
 ## Misc
 * [qmlweb](https://github.com/qmlweb/qmlweb) - A QML engine in a web browser.
