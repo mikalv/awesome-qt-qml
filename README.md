@@ -65,6 +65,7 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [qmlrs](https://github.com/cyndis/qmlrs) - qmlrs allows the use of QML/QtQuick code from Rust.
 * [libqmlbind](https://github.com/seanchas116/libqmlbind) - A C library for creating QML bindings for other languages easily through exporting objects to QML.
 * [lablqml](https://github.com/Kakadu/lablqml) - Let's write QML/QtQuick GUI's for OCaml and Reason.
+* [pythonqt](http://pythonqt.sourceforge.net) - A library for embedding Python into your application.
 
 
 ## Compression
@@ -195,6 +196,8 @@ A curated list of awesome Qt and QML libraries, resources, projects, and shiny t
 * [SolarSystem](https://github.com/Instand/SolarSystem) - Solar system model based on Qt3D framework.
 * [QMLTreeView](https://github.com/arunpkqt/QMLTreeView) - QMl TreeView with custom folder list model in C++.
 * [QQuickDock](https://github.com/unseon/QQuickDock) - Docking window for Qt Quick.
+* [nodeeditor](https://github.com/paceholder/nodeeditor) - Qt Node Editor. Dataflow programming framework.
+
 
 ## Multimedia
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily.
