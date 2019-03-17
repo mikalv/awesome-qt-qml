@@ -1,6 +1,8 @@
 # Awesome Qt
 A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) and other awesome lists.
 
+Pull requests of new projects/apps/libraries are welcome :)
+
 - [Awesome Qt/QML](#awesome-qt-qml)
     - [Android](#android)
     - [Apple iOS](#apple-ios)
