@@ -115,6 +115,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [pot](https://github.com/carlonluca/pot) - Raspberry Pi accelerated video/image rendering with Qt: custom QML components and QtMultimedia backend.
 * [QtJoysticks](https://github.com/alex-spataru/QJoysticks) - The QJoysticks library allows your Qt application to read input from both real joysticks/gamepads (using SDL) and a virtual joystick (using the keyboard).
 * [QmlPedalboard](https://github.com/danieloneill/QmlPedalboard) - A Udev rule, a tiny Arduino program, a Qml Component, and a test Qml app to interface a pedal board with QML.
+* [Qt Touch Bar](https://github.com/andeplane/qt-touchbar/) - A QML item for the Apple Touch Bar
 
 ## Images
 * [QML-Loaders](https://github.com/Furkanzmc/QML-Loaders) - Loading animation implementations in QML.
