@@ -26,13 +26,13 @@ Pull requests of new projects/apps/libraries are welcome :)
     - [Networking](#networking)
     - [Package Manager](#package-manager)
     - [QML Specific](#qml-specific)
-    - [SDKs](#SDKs)
+    - [SDKs](#sdks)
     - [Styling](#styling)
     - [Templates](#templates)
     - [Testing](#testing)
     - [Visualization](#visualization)
     - [Web Frameworks](#web-frameworks)
-    - [X11/Wayland](#x11-wayland)
+    - [X11/Wayland](#x11wayland)
 - [Software](#software)
 
 ## Android
@@ -54,11 +54,11 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [quickfuture](https://github.com/benlau/quickfuture) - Using QFuture in QML.
 
 ## Binding
-* [Language Bindings](https://wiki.qt.io/Language_Bindings) - List of available bindings, maintained in the Qt Wiki
-* [Language Bindings](https://en.wikipedia.org/wiki/List_of_language_bindings_for_Qt_5) - List of language bindings, maintained on Wikipedia
+* [Language Bindings](https://wiki.qt.io/Language_Bindings) - List of available bindings, maintained in the Qt Wiki.
+* [Language Bindings](https://en.wikipedia.org/wiki/List_of_language_bindings_for_Qt_5) - List of language bindings, maintained on Wikipedia.
 * [Qml.Net](https://github.com/pauldotknopf/Qml.Net) - Qml.Net is cross-platform integration of Qml/QtQuick for .NET Core/.NET Framework/Mono. It is a binding that brings .NET types into JavaScript with full interoperability.
-* [DOtherside](https://github.com/filcuc/DOtherSide) - C language library for creating bindings for the Qt QML language
-* [Bindgen](https://github.com/Papierkorb/bindgen/) - Binding and wrapper generator for C++ libraries, focused on Crystal
+* [DOtherside](https://github.com/filcuc/DOtherSide) - C language library for creating bindings for the Qt QML language.
+* [Bindgen](https://github.com/Papierkorb/bindgen/) - Binding and wrapper generator for C++ libraries, focused on Crystal.
 * [qt5.cr](https://github.com/Papierkorb/qt5.cr) - Bindings to Crystal via Bindgen. 
 * [PyQt](http://www.riverbankcomputing.com/software/pyqt/) - PyQt is a set of Python v2 and v3 bindings for Qt and runs on all platforms supported by Qt including Windows, MacOS/X and Linux. PyQt5 supports Qt v5.
 * [PySide](http://qt-project.org/wiki/PySide) - The PySide project provides LGPL-licensed Python bindings for the Qt. It also includes complete toolchain for rapidly generating bindings for any Qt-based C++ class hierarchies.
@@ -68,7 +68,6 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [libqmlbind](https://github.com/seanchas116/libqmlbind) - A C library for creating QML bindings for other languages easily through exporting objects to QML.
 * [lablqml](https://github.com/Kakadu/lablqml) - Let's write QML/QtQuick GUI's for OCaml and Reason.
 * [pythonqt](http://pythonqt.sourceforge.net) - A library for embedding Python into your application.
-
 
 ## Compression
 * [KArchive](https://projects.kde.org/projects/frameworks/karchive) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice.
@@ -103,7 +102,6 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## Game Engine
 * [Bacon2D](https://github.com/Bacon2D/Bacon2D) - Bacon2D is a framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
-* [V-Play](http://v-play.net/) - V-Play Game Engine allows easy cross-platform mobile game development for all major platforms including iOS, Android, BlackBerry.
 * [QmlOgre](https://github.com/advancingu/QmlOgre) - Integrates Ogre3D into Qt QML scenes by rendering Ogre to FBOs.
 
 ## Graphics
@@ -132,7 +130,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [qredux](https://github.com/benlau/qredux) - Redux for QML.
 * [qml_underscorejs](https://github.com/diro/qml_underscorejs) - A port of underscore.js to Qt/QML.
 * [react-qml](https://github.com/grassator/react-qml) - A bridge library that allows to use React.js with QML.
-* [qml-browserify](https://github.com/bhdouglass/qml-browserify) - Browserify for QML.
+* [qml-browserify](https://github.com/bhdouglass/qml-browserify) - Browserify for QML (archived, moved to [GitLab](https://gitlab.com/bhdouglass/qml-browserify)).
 * [Qondrite](https://github.com/achipa/Qondrite) - QML wrapper for Asteroid, a Javascript Meteor client library.
 
 ## JSON
@@ -177,7 +175,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [aqt-cassowary](https://github.com/Ableton/aqt-cassowary) - Aqt.Cassowary (pronounced like Acute Cassowary) is a Qt plugin that allows you to run a incremental linear constraint solver in QML applications, providing a declarative interface that fits naturally in the QML programming model.
 * [qml-colorpicker](https://github.com/rshest/qml-colorpicker) - A basic colorpicker control made in Qt Quick/QML.
 * [qmltooltip](https://github.com/bobbaluba/qmltooltip) - A simple tooltip system for QML.
-* [QML-Code-editor](https://github.com/andeplane/QML-Code-editor) - A simple code editor using QML and c++.
+* [QML-Code-editor](https://github.com/andeplane/QML-Code-editor) - A simple code editor using QML and C++.
 * [QmlPrinter](https://github.com/tanelipe/QmlPrinter) - Simple Qt component which allows user to print out a QML view from C++.
 * [SlideMenu](https://github.com/anatolyk82/SlideMenu) - Implementation of a slide menu in QML.
 * [QMLRearrangeableTreeView](https://github.com/MrEricSir/QMLRearrangeableTreeView) - A list-based TreeView that can be rearranged with a mouse or touch device.
@@ -211,9 +209,10 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [QmlVlcDemo](https://github.com/RSATom/QmlVlcDemo) - Simple demo app for QmlVlc lib.
 * [qmlmidi](https://github.com/jarnoh/qmlmidi) - MIDI plugin for Qt Quick. Enables using MIDI input or output devices from declarative QML.
 * [qml-recorder](https://github.com/sverzegnassi/qml-recorder) - A QML plugin for audio recording.
-* [Elisa](https://community.kde.org/Elisa) - Music Player
-* [Kamoso](https://github.com/KDE/kamoso) - Webcam Application
-* [Webvfx](http://rectalogic.github.io/webvfx/) - WebVfx is a video effects framework that allows video effects (filters, transitions etc.) authored using QtQuick
+* [Elisa](https://community.kde.org/Elisa) - Music Player.
+* [Kamoso](https://github.com/KDE/kamoso) - Webcam Application.
+* [Webvfx](http://rectalogic.github.io/webvfx/) - WebVfx is a video effects framework that allows video effects (filters, transitions etc.) authored using QtQuick.
+
 ## Networking
 * [libmaia](https://github.com/wiedi/libmaia) - libmaia is a easy-to-use XML-RPC library for Qt.
 * [libcommuni](http://communi.github.io/) - A cross-platform IRC framework written with Qt ([source](https://github.com/communi/libcommuni)).
@@ -226,15 +225,15 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [QML-WebSocket](https://github.com/misterion/QML-WebSocket) - This is a lightweight Qt Qml wrapper for legacy version of websocketpp.
 * [QtMqtt](https://github.com/toni1991/QtMqtt) - Qt and QML Mqtt Library.
 * [qml-soap](https://github.com/folibis/qml-soap) - qml-soap is simple SOAP client plugin created to use mostly with QML.
-* [qml-tcpsockets](https://github.com/chili-epfl/qml-tcpsockets) - QML wrappers for QTcpServer and QTcpSocket.
+* [qml-tcpsockets](https://github.com/chili-epfl/qml-tcpsockets) - QML wrappers for `QTcpServer` and `QTcpSocket`.
 * [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Software to connect with Andriod phones. App and Plasmoid are both in QML.
-* [Liri](https://liri.io/apps/browser/) - Web Browser
-* [QSsh](https://github.com/lvklabs/QSsh) - SSH and SFTP support for Qt. This project is based on Qt Creator's libQtcSsh.so
+* [Liri](https://liri.io/apps/browser/) - Web Browser.
+* [QSsh](https://github.com/lvklabs/QSsh) - SSH and SFTP support for Qt. This project is based on Qt Creator's `libQtcSsh.so`.
 * [qtrest](https://github.com/qtrest/qtrest) - a small and simple REST API client for any Qt/QML application.
 
 ## Package Manager
 * [qpm](http://www.qpm.io/) - A package manager for Qt ([source](https://github.com/Cutehacks/qpm)).
-* [Discover](https://userbase.kde.org/Discover) - Package manager GUI, including Flatpaks
+* [Discover](https://userbase.kde.org/Discover) - Package manager GUI, including Flatpaks.
 
 ## QML Specific
 * [frida-qml](https://github.com/frida/frida-qml) - Frida Qml plugin.
@@ -243,12 +242,12 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [quickcross](https://github.com/benlau/quickcross) - QML Cross Platform Utility Library.
 
 ## SDKs
+* [Felgo](https://felgo.com/) - Felgo (previously V-Play Engine) allows easy cross-platform mobile games and apps development for all major platforms including iOS, Android, BlackBerry.
 * [arcgis-runtime-toolkit-qt](https://github.com/Esri/arcgis-runtime-toolkit-qt) - This project contains QML source code for controls and utilities you can use with the ArcGIS Runtime SDK for Qt.
 * [QtFirebase](https://github.com/Larpon/QtFirebase) - An effort to bring the Firebase C++ API to Qt + QML.
 * [GATutorial-QML](https://github.com/lasconic/GATutorial-QML) - A simple integration of Google Analytics with Qt Quick for iOS and Android.
-* [social-connect-qml-plugin](https://github.com/microsoft-mobile/social-connect-qml-plugin) - This plug-in delivers an interface for Qt Quick developers for accessing the APIs of Facebook and Twitter that allow creating mobile applications powered by social media.
-* [QtAdMob](https://github.com/yevgeniy-logachev/QtAdMob) - QtAdMob is a C++ lib for Qt with QML support, which allows to show ads from AdMob on Android and iOS platforms
-* [Kirigami](https://techbase.kde.org/Kirigami) - lightweight user interface framework for mobile and convergent applications
+* [QtAdMob](https://github.com/yevgeniy-logachev/QtAdMob) - QtAdMob is a C++ lib for Qt with QML support, which allows to show ads from AdMob on Android and iOS platforms.
+* [Kirigami](https://techbase.kde.org/Kirigami) - lightweight user interface framework for mobile and convergent applications.
 
 ## Styling
 * [fluid](https://github.com/lirios/fluid) - Fluid is a collection of cross-platform QtQuick components for building fluid and dynamic applications.
@@ -270,7 +269,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## Testing
 * [qmlunit](https://github.com/fgrehm/qmlunit) - An easy-to-use Unit Testing framework for Qt Declarative UI - QML [unmaintained].
-* [testable](https://github.com/benlau/testable) - QT/QML Test Runner and Utilities.
+* [testable](https://github.com/benlau/testable) - Qt/QML Test Runner and Utilities.
 * [testrunner](https://github.com/benlau/testrunner) - Qt Test Runner - A tiny tool to execute multiple QTestLib application and combine the testing result into a summary report.
 * [QmlSpec](https://github.com/jemc/QmlSpec) - QmlSpec is a replacement for QML's bundled-in unit testing module QtTest.
 
@@ -290,8 +289,8 @@ Pull requests of new projects/apps/libraries are welcome :)
 # Learning
 * [The QML Book](http://qmlbook.github.io/) - The QML Book. ([source](https://github.com/qmlbook/qmlbook))
 * [Gcompris](http://www.gcompris.net/index-en.html) - For Kids. 
-* [Ktouch](https://www.kde.org/applications/education/ktouch/) - Touch Typing Tutor
-* [RCSE](https://github.com/Rolisteam/rcse) - Rolisteam Character Sheet Editor : easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
+* [Ktouch](https://www.kde.org/applications/education/ktouch/) - Touch Typing Tutor.
+* [RCSE](https://github.com/Rolisteam/rcse) - Rolisteam Character Sheet Editor: easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
 
 # Software
 * [files](https://github.com/lirios/files) - File manager.
@@ -310,6 +309,5 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [IPConnect](https://github.com/shashwatdixit124/IPConnect) - P2P Chat and File Transfer Desktop Application.
 
 # Websites
-
 * [inqlude.org](https://inqlude.org) - Website that list a lot of Qt/QML projects.
 * [wiki.manjaro.org](https://wiki.manjaro.org/index.php?title=List_of_Qt_Applications) - The manjaro wiki has quie an Qt applications list.
