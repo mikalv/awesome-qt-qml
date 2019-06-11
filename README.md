@@ -292,6 +292,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Gcompris](http://www.gcompris.net/index-en.html) - For Kids. 
 * [Ktouch](https://www.kde.org/applications/education/ktouch/) - Touch Typing Tutor.
 * [RCSE](https://github.com/Rolisteam/rcse) - Rolisteam Character Sheet Editor: easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
+* [QML Coding Guidelines](https://github.com/Furkanzmc/QML-Coding-Guide): A collection of good practices when writing QML code.
 
 # Software
 * [files](https://github.com/lirios/files) - File manager.
