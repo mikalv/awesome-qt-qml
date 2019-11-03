@@ -299,7 +299,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [tensor](https://github.com/davidar/tensor) - Tensor is an IM client for the Matrix protocol in development.
 * [yat](https://github.com/jorgen/yat) - Terminal Emulator written in C++ and qml.
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
-* [Tiled](http://www.mapedito.org/) - Tiled is a general purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
+* [Tiled](http://www.mapeditor.org/) - Tiled is a general purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
 * [yubioath-desktop](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux).
 * [pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) - A cross platform, customizable graphical frontend for launching emulators and managing your game collection.
 * [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
