@@ -83,6 +83,8 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [sqlite-editor-qtqml](https://github.com/ndesai/sqlite-editor-qtqml) - A SQLite Editor written in Qt+QML.
 
 ## Development
+* [QHot](https://github.com/patrickelectric/qhot) - Hot reload of nested QML projects.
+* [qml-online](https://patrickelectric.work/qmlonline/) - WebAssembly QML viewer.
 * [qml-livereload](https://github.com/penk/qml-livereload) - Simple QtQuick app live viewer.
 * [hotloader.pri](https://github.com/benlau/hotloader.pri) - Hot Reload QML Files.
 * [terrariumapp](http://www.terrariumapp.com/) - UI Prototyping Tool for Coders ([source](https://github.com/penk/terrarium-app)).
