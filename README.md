@@ -204,6 +204,8 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [QtMvvm](https://github.com/Skycoder42/QtMvvm) - A mvvm oriented library for Qt, to create Projects for Widgets and Quick in parallel.
 * [QtRestClient](https://github.com/Skycoder42/QtRestClient) - A library for generic JSON-based REST-APIs, with a mechanism to map JSON to Qt objects.
 * [QtAutoUpdater](https://github.com/Skycoder42/QtAutoUpdater) - A Qt library to automatically check for updates and install them.
+* [QMarkdownTextEdit](https://github.com/pbek/qmarkdowntextedit) - A C++ Qt QPlainTextEdit widget with markdown highlighting support and some other extras.
+* [QSourceHighlite](https://github.com/Waqar144/QSourceHighlite) - A lightweight source code/syntax highlighter written in Qt C++.
 
 
 ## Multimedia
@@ -311,6 +313,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [harbour-sailfinder](https://github.com/modulebaan/harbour-sailfinder) - Sailfinder source code & bug tracker.
 * [Rolisteam](https://github.com/Rolisteam/rolisteam) - VirtualTableTop software to play Pen and paper role playing games.
 * [IPConnect](https://github.com/shashwatdixit124/IPConnect) - P2P Chat and File Transfer Desktop Application.
+* [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 
 # Websites
 * [inqlude.org](https://inqlude.org) - Website that list a lot of Qt/QML projects.
