@@ -42,6 +42,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [QtVlcMediaPlayer](https://github.com/mzafers/QtVlcMediaPlayer) - LibVLC integrated Qt QML MediaPlayer for Android.
 * [qmlcontactlist](https://github.com/tripolskypetr/qmlcontactlist) - The easy way to extend contacts from android to qml.
 * [qml-filedialog](https://github.com/dobokirisame/qml-filedialog) - Qt Quick File picker.
+* [QtAndroidTools](https://github.com/FalsinSoft/QtAndroidTools) - QtAndroidTools is a library that allows to simplify access to some native Android features from QML.
 
 ## Apple iOS
 * [quickios](https://github.com/benlau/quickios) - QML Theme and Component Library for iOS.
