@@ -53,6 +53,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [asyncfuture](https://github.com/benlau/asyncfuture) - AsyncFuture - Use QFuture like a Promise object.
 * [quickpromise](https://github.com/benlau/quickpromise) - Quick Promise - QML Promise Library.
 * [quickfuture](https://github.com/benlau/quickfuture) - Using QFuture in QML.
+* [cppjsdeferred](https://github.com/eeiaao/cppjsdeferred) - Helper for an asynchronous interactions between Qt and QML.
 
 ## Binding
 * [Language Bindings](https://wiki.qt.io/Language_Bindings) - List of available bindings, maintained in the Qt Wiki.
