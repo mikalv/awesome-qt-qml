@@ -207,6 +207,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [QtAutoUpdater](https://github.com/Skycoder42/QtAutoUpdater) - A Qt library to automatically check for updates and install them.
 * [QMarkdownTextEdit](https://github.com/pbek/qmarkdowntextedit) - A C++ Qt QPlainTextEdit widget with markdown highlighting support and some other extras.
 * [QSourceHighlite](https://github.com/Waqar144/QSourceHighlite) - A lightweight source code/syntax highlighter written in Qt C++.
+* [QmlTreeViewExample](https://github.com/ArtifeksNN/QmlTreeViewExample) - Here is an example of how a tree might look in QML.
 
 
 ## Multimedia
