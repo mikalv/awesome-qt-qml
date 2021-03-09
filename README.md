@@ -125,6 +125,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [qqr.js](https://github.com/M4rtinK/qqr.js) - QML bindings for qr.js Javascript QR code library.
 * [imagequick](https://github.com/hluk/imagequick) - Simple image browser written in QML.
 * [QMLExif](https://github.com/Match-Yang/QMLExif) - QMLExif is a pulgin for reading exif infomation from image file by libexif.
+* [QML-ImageProvider](https://github.com/Daguerreo/QML-ImageProvider) - Demonstrate how to use QQuickImageProvider to provide a stream of image to QML.
 
 ## Javascript
 * [Node.qml](https://github.com/trollixx/node.qml) - Node.qml is an effort to provide a Node.js compatibility layer to QML applications.
