@@ -65,6 +65,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [PySide](http://qt-project.org/wiki/PySide) - The PySide project provides LGPL-licensed Python bindings for the Qt. It also includes complete toolchain for rapidly generating bindings for any Qt-based C++ class hierarchies.
 * [PyOtherSide](http://thp.io/2011/pyotherside/) - A Qt 5 QML Plugin that provides access to a Python 3 interpreter from QML.
 * [go-qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS.
+* [qmetaobject-rs](https://github.com/woboq/qmetaobject-rs) - A framework empowering everyone to create Qt/QML applications with Rust.
 * [qmlrs](https://github.com/cyndis/qmlrs) - qmlrs allows the use of QML/QtQuick code from Rust.
 * [libqmlbind](https://github.com/seanchas116/libqmlbind) - A C library for creating QML bindings for other languages easily through exporting objects to QML.
 * [lablqml](https://github.com/Kakadu/lablqml) - Let's write QML/QtQuick GUI's for OCaml and Reason.
