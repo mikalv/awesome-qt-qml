@@ -82,6 +82,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [QmlSql](https://github.com/JosephMillsAtWork/QmlSql) - A couple of wrapper classes that are for QSql.
 * [qtleveldb](https://github.com/paulovap/qtleveldb) - Qt/QML wrapper for Google's LevelDB.
 * [sqlite-editor-qtqml](https://github.com/ndesai/sqlite-editor-qtqml) - A SQLite Editor written in Qt+QML.
+* [Nut](https://github.com/HamedMasafi/Nut) - Advanced, Powerful and easy to use ORM for Qt5
 
 ## Development
 * [QHot](https://github.com/patrickelectric/qhot) - Hot reload of nested QML projects.
