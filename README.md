@@ -65,6 +65,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [PySide](http://qt-project.org/wiki/PySide) - The PySide project provides LGPL-licensed Python bindings for the Qt. It also includes complete toolchain for rapidly generating bindings for any Qt-based C++ class hierarchies.
 * [PyOtherSide](http://thp.io/2011/pyotherside/) - A Qt 5 QML Plugin that provides access to a Python 3 interpreter from QML.
 * [go-qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS.
+* [qmetaobject-rs](https://github.com/woboq/qmetaobject-rs) - A framework empowering everyone to create Qt/QML applications with Rust.
 * [qmlrs](https://github.com/cyndis/qmlrs) - qmlrs allows the use of QML/QtQuick code from Rust.
 * [libqmlbind](https://github.com/seanchas116/libqmlbind) - A C library for creating QML bindings for other languages easily through exporting objects to QML.
 * [lablqml](https://github.com/Kakadu/lablqml) - Let's write QML/QtQuick GUI's for OCaml and Reason.
@@ -82,6 +83,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [QmlSql](https://github.com/JosephMillsAtWork/QmlSql) - A couple of wrapper classes that are for QSql.
 * [qtleveldb](https://github.com/paulovap/qtleveldb) - Qt/QML wrapper for Google's LevelDB.
 * [sqlite-editor-qtqml](https://github.com/ndesai/sqlite-editor-qtqml) - A SQLite Editor written in Qt+QML.
+* [Nut](https://github.com/HamedMasafi/Nut) - Advanced, Powerful and easy to use ORM for Qt5
 
 ## Development
 * [QHot](https://github.com/patrickelectric/qhot) - Hot reload of nested QML projects.
@@ -126,6 +128,8 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [imagequick](https://github.com/hluk/imagequick) - Simple image browser written in QML.
 * [QMLExif](https://github.com/Match-Yang/QMLExif) - QMLExif is a pulgin for reading exif infomation from image file by libexif.
 * [QML-ImageProvider](https://github.com/Daguerreo/QML-ImageProvider) - Demonstrate how to use QQuickImageProvider to provide a stream of image to QML.
+* [SCodes](https://github.com/scytheStudio/SCodes) - Qt & QML wrapper for [ZXing-C++ Library](https://github.com/nu-book/zxing-cpp) with ready-made QML items for decoding and generating 1D and 2D barcodes (aka. QR codes).
+
 
 ## Javascript
 * [Node.qml](https://github.com/trollixx/node.qml) - Node.qml is an effort to provide a Node.js compatibility layer to QML applications.
@@ -300,6 +304,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Ktouch](https://www.kde.org/applications/education/ktouch/) - Touch Typing Tutor.
 * [RCSE](https://github.com/Rolisteam/rcse) - Rolisteam Character Sheet Editor: easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
 * [QML Coding Guidelines](https://github.com/Furkanzmc/QML-Coding-Guide): A collection of good practices when writing QML code.
+* [Qt6 QML Book](https://www.qt.io/product/qt6/qml-book) - Free book created by Qt Company. It provides you with a walk through of the different aspects of application development using the new Qt 6. It focuses on the Qt Quick technology, but also provides necessary information about writing C++ back-ends and extension for Qt Quick.
 
 # Software
 * [files](https://github.com/lirios/files) - File manager.
