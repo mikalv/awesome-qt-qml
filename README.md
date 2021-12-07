@@ -125,6 +125,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [qqr.js](https://github.com/M4rtinK/qqr.js) - QML bindings for qr.js Javascript QR code library.
 * [imagequick](https://github.com/hluk/imagequick) - Simple image browser written in QML.
 * [QMLExif](https://github.com/Match-Yang/QMLExif) - QMLExif is a pulgin for reading exif infomation from image file by libexif.
+* [SCodes](https://github.com/scytheStudio/SCodes) - Qt & QML wrapper for [ZXing-C++ Library](https://github.com/nu-book/zxing-cpp) with ready-made QML items for decoding and generating 1D and 2D barcodes (aka. QR codes).
 
 ## Javascript
 * [Node.qml](https://github.com/trollixx/node.qml) - Node.qml is an effort to provide a Node.js compatibility layer to QML applications.
@@ -299,6 +300,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Ktouch](https://www.kde.org/applications/education/ktouch/) - Touch Typing Tutor.
 * [RCSE](https://github.com/Rolisteam/rcse) - Rolisteam Character Sheet Editor: easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
 * [QML Coding Guidelines](https://github.com/Furkanzmc/QML-Coding-Guide): A collection of good practices when writing QML code.
+* [Qt6 QML Book](https://www.qt.io/product/qt6/qml-book) - Free book created by Qt Company. It provides you with a walk through of the different aspects of application development using the new Qt 6. It focuses on the Qt Quick technology, but also provides necessary information about writing C++ back-ends and extension for Qt Quick.
 
 # Software
 * [files](https://github.com/lirios/files) - File manager.
