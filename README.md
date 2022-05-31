@@ -17,7 +17,7 @@ Pull requests of new projects/apps/libraries are welcome :)
     - [Graphics](#graphics)
     - [Hardware](#hardware)
     - [Images](#images)
-    - [Javascript](#javascript)
+    - [JavaScript](#javascript)
     - [JSON](#json)
     - [Logging](#logging)
     - [Math](#math)
@@ -131,7 +131,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [SCodes](https://github.com/scytheStudio/SCodes) - Qt & QML wrapper for [ZXing-C++ Library](https://github.com/nu-book/zxing-cpp) with ready-made QML items for decoding and generating 1D and 2D barcodes (aka. QR codes).
 
 
-## Javascript
+## JavaScript
 * [Node.qml](https://github.com/trollixx/node.qml) - Node.qml is an effort to provide a Node.js compatibility layer to QML applications.
 * [Quickly](https://github.com/quickly/quickly) - ES6 and Node.js-like environment for QML.
 * [quicknative](https://github.com/paulondc/quicknative) - Native components for QML.
