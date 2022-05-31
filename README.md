@@ -141,6 +141,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [react-qml](https://github.com/grassator/react-qml) - A bridge library that allows to use React.js with QML.
 * [qml-browserify](https://github.com/bhdouglass/qml-browserify) - Browserify for QML (archived, moved to [GitLab](https://gitlab.com/bhdouglass/qml-browserify)).
 * [Qondrite](https://github.com/achipa/Qondrite) - QML wrapper for Asteroid, a Javascript Meteor client library.
+* [qml-lodash](https://github.com/GooRoo/qml-lodash) - Simple [Lodash](https://lodash.com) wrapper to ease its usage in QML.
 
 ## JSON
 * [qsyncable](https://github.com/benlau/qsyncable) - A solution of nested Json List Model.
