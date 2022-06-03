@@ -119,7 +119,6 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [qml-cvcamera](https://github.com/chili-epfl/qml-cvcamera) - CVCamera is a QML wrapper for fast camera access using OpenCV. It works on desktop and Android.
 * [pot](https://github.com/carlonluca/pot) - Raspberry Pi accelerated video/image rendering with Qt: custom QML components and QtMultimedia backend.
 * [QtJoysticks](https://github.com/alex-spataru/QJoysticks) - The QJoysticks library allows your Qt application to read input from both real joysticks/gamepads (using SDL) and a virtual joystick (using the keyboard).
-* [QmlPedalboard](https://github.com/danieloneill/QmlPedalboard) - A Udev rule, a tiny Arduino program, a Qml Component, and a test Qml app to interface a pedal board with QML.
 * [Qt Touch Bar](https://github.com/andeplane/qt-touchbar/) - A QML item for the Apple Touch Bar
 
 ## Images
@@ -186,6 +185,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [qmltooltip](https://github.com/bobbaluba/qmltooltip) - A simple tooltip system for QML.
 * [QML-Code-editor](https://github.com/andeplane/QML-Code-editor) - A simple code editor using QML and C++.
 * [QmlPrinter](https://github.com/tanelipe/QmlPrinter) - Simple Qt component which allows user to print out a QML view from C++.
+* [ComponentPrinter](https://github.com/danieloneill/ComponentPrinter) - QML component for printing from QML.
 * [SlideMenu](https://github.com/anatolyk82/SlideMenu) - Implementation of a slide menu in QML.
 * [QMLRearrangeableTreeView](https://github.com/MrEricSir/QMLRearrangeableTreeView) - A list-based TreeView that can be rearranged with a mouse or touch device.
 * [DateSelector](https://github.com/qyvlik/DateSelector) - Date selector in QML.
