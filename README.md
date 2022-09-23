@@ -17,7 +17,7 @@ Pull requests of new projects/apps/libraries are welcome :)
     - [Graphics](#graphics)
     - [Hardware](#hardware)
     - [Images](#images)
-    - [Javascript](#javascript)
+    - [JavaScript](#javascript)
     - [JSON](#json)
     - [Logging](#logging)
     - [Math](#math)
@@ -131,7 +131,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [SCodes](https://github.com/scytheStudio/SCodes) - Qt & QML wrapper for [ZXing-C++ Library](https://github.com/nu-book/zxing-cpp) with ready-made QML items for decoding and generating 1D and 2D barcodes (aka. QR codes).
 
 
-## Javascript
+## JavaScript
 * [Node.qml](https://github.com/trollixx/node.qml) - Node.qml is an effort to provide a Node.js compatibility layer to QML applications.
 * [Quickly](https://github.com/quickly/quickly) - ES6 and Node.js-like environment for QML.
 * [quicknative](https://github.com/paulondc/quicknative) - Native components for QML.
@@ -141,6 +141,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [react-qml](https://github.com/grassator/react-qml) - A bridge library that allows to use React.js with QML.
 * [qml-browserify](https://github.com/bhdouglass/qml-browserify) - Browserify for QML (archived, moved to [GitLab](https://gitlab.com/bhdouglass/qml-browserify)).
 * [Qondrite](https://github.com/achipa/Qondrite) - QML wrapper for Asteroid, a Javascript Meteor client library.
+* [qml-lodash](https://github.com/GooRoo/qml-lodash) - Simple [Lodash](https://lodash.com) wrapper to ease its usage in QML.
 
 ## JSON
 * [qsyncable](https://github.com/benlau/qsyncable) - A solution of nested Json List Model.
@@ -253,6 +254,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [qmlc](https://github.com/qmlc/qmlc) - The Qml Compiler can be used to convert Qml source code files into precompiled Qml files. The precompiled Qml files are faster to load and do not expose the source code. Normally, the Qt either compiles the Qml files in the startup or interprets the Qml files runtime.
 * [viewstack.pri](https://github.com/benlau/viewstack.pri) - ViewStack is a wrapper of StackView (QQC2) that provides a stateless interface.
 * [quickcross](https://github.com/benlau/quickcross) - QML Cross Platform Utility Library.
+* [qml-colors](https://gooroo.github.io/qml-colors/) - A library that extends the set of operations with `color` values in QML.
 
 ## SDKs
 * [Felgo](https://felgo.com/) - Felgo (previously V-Play Engine) allows easy cross-platform mobile games and apps development for all major platforms including iOS, Android, BlackBerry.
