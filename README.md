@@ -75,7 +75,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [KArchive](https://projects.kde.org/projects/frameworks/karchive) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice.
 
 ## Cryptography
-* [Qt Cryptographic Architecture (QCA)](http://delta.affinix.com/qca/) - Taking a hint from the similarly-named Java Cryptography Architecture, QCA aims to provide a straightforward and cross-platform crypto API, using Qt datatypes and conventions.
+* [Qt Cryptographic Architecture (QCA)](https://github.com/KDE/qca/) - Taking a hint from the similarly-named Java Cryptography Architecture, QCA aims to provide a straightforward and cross-platform crypto API, using Qt datatypes and conventions.
 
 ## Database
 * [QxOrm](http://www.qxorm.com) - QxOrm library is an Object Relational Mapping (ORM) library for C++/Qt developers.
