@@ -325,6 +325,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Rolisteam](https://github.com/Rolisteam/rolisteam) - VirtualTableTop software to play Pen and paper role playing games.
 * [IPConnect](https://github.com/shashwatdixit124/IPConnect) - P2P Chat and File Transfer Desktop Application.
 * [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
+* [SerialTest](https://github.com/wh201906/SerialTest) - Debugging serial port/Bluetooth SPP/BLE/TCP server/TCP client/UDP connections on Windows/Linux/Android.
 
 # Websites
 * [inqlude.org](https://inqlude.org) - Website that list a lot of Qt/QML projects.
