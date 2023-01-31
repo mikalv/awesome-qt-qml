@@ -75,7 +75,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [KArchive](https://projects.kde.org/projects/frameworks/karchive) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice.
 
 ## Cryptography
-* [Qt Cryptographic Architecture (QCA)](http://delta.affinix.com/qca/) - Taking a hint from the similarly-named Java Cryptography Architecture, QCA aims to provide a straightforward and cross-platform crypto API, using Qt datatypes and conventions.
+* [Qt Cryptographic Architecture (QCA)](https://github.com/KDE/qca/) - Taking a hint from the similarly-named Java Cryptography Architecture, QCA aims to provide a straightforward and cross-platform crypto API, using Qt datatypes and conventions.
 
 ## Database
 * [QxOrm](http://www.qxorm.com) - QxOrm library is an Object Relational Mapping (ORM) library for C++/Qt developers.
@@ -303,7 +303,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 # Learning
 * [The QML Book](http://qmlbook.github.io/) - The QML Book. ([source](https://github.com/qmlbook/qmlbook))
-* [Gcompris](http://www.gcompris.net/index-en.html) - For Kids. 
+* [GCompris](http://www.gcompris.net/index-en.html) - For Kids. 
 * [Ktouch](https://www.kde.org/applications/education/ktouch/) - Touch Typing Tutor.
 * [RCSE](https://github.com/Rolisteam/rcse) - Rolisteam Character Sheet Editor: easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
 * [QML Coding Guidelines](https://github.com/Furkanzmc/QML-Coding-Guide): A collection of good practices when writing QML code.
