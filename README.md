@@ -33,6 +33,7 @@ Pull requests of new projects/apps/libraries are welcome :)
     - [Visualization](#visualization)
     - [Web Frameworks](#web-frameworks)
     - [X11/Wayland](#x11wayland)
+    - [GraphQL Clients](#graphql-clients)
 - [Software](#software)
 
 ## Android
@@ -300,6 +301,9 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager.
 * [shell](https://github.com/lirios/shell) - QtQuick and Wayland shell for convergence.
 * [qmlcompmgr](https://github.com/amezin/qmlcompmgr) - It's a simple compositing manager for X11, written using Qt Quick and QML. Not ready for production.
+
+## GraphQL Clients
+* [qtgql](https://github.com/qtgql/qtgql) -  GraphQL client for Qt and QML that is inspired by [react-relay](https://relay.dev/).  
 
 # Learning
 * [The QML Book](http://qmlbook.github.io/) - The QML Book. ([source](https://github.com/qmlbook/qmlbook))
