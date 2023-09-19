@@ -15,6 +15,7 @@ Pull requests of new projects/apps/libraries are welcome :)
     - [Editor Integration](#editor-integration)
     - [Game Engine](#game-engine)
     - [Graphics](#graphics)
+    - [GraphQL Clients](#graphql-clients)
     - [Hardware](#hardware)
     - [Images](#images)
     - [JavaScript](#javascript)
@@ -33,6 +34,7 @@ Pull requests of new projects/apps/libraries are welcome :)
     - [Visualization](#visualization)
     - [Web Frameworks](#web-frameworks)
     - [X11/Wayland](#x11wayland)
+   
 - [Software](#software)
 
 ## Android
@@ -115,6 +117,10 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Chart.qml](https://github.com/qyvlik/Chart.qml) - Chart.qml like Chart.js.
 * [qml-ogdf](https://github.com/schulzch/qml-ogdf) - This plug-in provides a binding of Open Graph Drawing Framework to QtQML (Version 5.0+).
 * [qml_framerate](https://github.com/vannell/qml_framerate) - Display QML Window frame rate (FPS).
+
+## GraphQL Clients
+* [qtgql](https://github.com/qtgql/qtgql) -  GraphQL client for Qt and QML that is inspired by [react-relay](https://relay.dev/).  
+
 
 ## Hardware
 * [qml-cvcamera](https://github.com/chili-epfl/qml-cvcamera) - CVCamera is a QML wrapper for fast camera access using OpenCV. It works on desktop and Android.
