@@ -60,7 +60,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Qml.Net](https://github.com/pauldotknopf/Qml.Net) - Qml.Net is cross-platform integration of Qml/QtQuick for .NET Core/.NET Framework/Mono. It is a binding that brings .NET types into JavaScript with full interoperability.
 * [DOtherside](https://github.com/filcuc/DOtherSide) - C language library for creating bindings for the Qt QML language.
 * [Bindgen](https://github.com/Papierkorb/bindgen/) - Binding and wrapper generator for C++ libraries, focused on Crystal.
-* [qt5.cr](https://github.com/Papierkorb/qt5.cr) - Bindings to Crystal via Bindgen. 
+* [qt5.cr](https://github.com/Papierkorb/qt5.cr) - Bindings to Crystal via Bindgen.
 * [PyQt](http://www.riverbankcomputing.com/software/pyqt/) - PyQt is a set of Python v2 and v3 bindings for Qt and runs on all platforms supported by Qt including Windows, MacOS/X and Linux. PyQt5 supports Qt v5.
 * [PySide](http://qt-project.org/wiki/PySide) - The PySide project provides LGPL-licensed Python bindings for the Qt. It also includes complete toolchain for rapidly generating bindings for any Qt-based C++ class hierarchies.
 * [PyOtherSide](http://thp.io/2011/pyotherside/) - A Qt 5 QML Plugin that provides access to a Python 3 interpreter from QML.
@@ -73,6 +73,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## Compression
 * [KArchive](https://projects.kde.org/projects/frameworks/karchive) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice.
+* [ArchiveQt](https://gitlab.com/marcusbritanicus/libarchive-qt) - A simple Qt based archiving solution with libarchive backend
 
 ## Cryptography
 * [Qt Cryptographic Architecture (QCA)](https://github.com/KDE/qca/) - Taking a hint from the similarly-named Java Cryptography Architecture, QCA aims to provide a straightforward and cross-platform crypto API, using Qt datatypes and conventions.
@@ -263,6 +264,8 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [GATutorial-QML](https://github.com/lasconic/GATutorial-QML) - A simple integration of Google Analytics with Qt Quick for iOS and Android.
 * [QtAdMob](https://github.com/yevgeniy-logachev/QtAdMob) - QtAdMob is a C++ lib for Qt with QML support, which allows to show ads from AdMob on Android and iOS platforms.
 * [Kirigami](https://techbase.kde.org/Kirigami) - lightweight user interface framework for mobile and convergent applications.
+* [DFL](https://gitlab.com/desktop-frameworks) - A collection of pure Qt libraries useful in building a Desktop Environment.
+* [QDocumentView](https://gitlab.com/extraqt/qdocumentview) - QDocumentView is a widget to render multi-page documents. Also provided is the abstract QDocument class, which can be used to build backends for various single/multi-page document formats, like PDF, DjVu, etc.
 
 ## Styling
 * [fluid](https://github.com/lirios/fluid) - Fluid is a collection of cross-platform QtQuick components for building fluid and dynamic applications.
@@ -298,12 +301,16 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## X11/Wayland
 * [sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager.
+* [QtGreet](https://gitlab.com/marcusbritanicus/QtGreet) - Qt based Wayland display manager for use with [greetd](https://sr.ht/~kennylevinsen/greetd/).
 * [shell](https://github.com/lirios/shell) - QtQuick and Wayland shell for convergence.
 * [qmlcompmgr](https://github.com/amezin/qmlcompmgr) - It's a simple compositing manager for X11, written using Qt Quick and QML. Not ready for production.
+* [DesQ](https://gitlab.com/DesQ) - DesQ is a simple and elegant Desktop Environment built on top of Qt/Wayland and [Wayfire](https://wayfire.org/). It is intended to be a very light and yet, visually appealing desktop environment.
+* [PaperDE](https://gitlab.com/cubocore/paper/paperde) - An awesome Desktop Environment built on top of Qt/Wayland and [wayfire](https://wayfire.org/).
+* [RDE](https://gitlab.com/eocene/rde) - RDE is a feature-rich modular desktop environment for use with the [Wayfire](https://wayfire.org/) compositor.
 
 # Learning
 * [The QML Book](http://qmlbook.github.io/) - The QML Book. ([source](https://github.com/qmlbook/qmlbook))
-* [GCompris](http://www.gcompris.net/index-en.html) - For Kids. 
+* [GCompris](http://www.gcompris.net/index-en.html) - For Kids.
 * [Ktouch](https://www.kde.org/applications/education/ktouch/) - Touch Typing Tutor.
 * [RCSE](https://github.com/Rolisteam/rcse) - Rolisteam Character Sheet Editor: easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
 * [QML Coding Guidelines](https://github.com/Furkanzmc/QML-Coding-Guide): A collection of good practices when writing QML code.
