@@ -127,6 +127,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [pot](https://github.com/carlonluca/pot) - Raspberry Pi accelerated video/image rendering with Qt: custom QML components and QtMultimedia backend.
 * [QtJoysticks](https://github.com/alex-spataru/QJoysticks) - The QJoysticks library allows your Qt application to read input from both real joysticks/gamepads (using SDL) and a virtual joystick (using the keyboard).
 * [Qt Touch Bar](https://github.com/andeplane/qt-touchbar/) - A QML item for the Apple Touch Bar
+* [Qt/QML Bluetooth Low Energy Demo](https://github.com/scytheStudio/Qt-BLE-Example) - Parking sensor example. It shows how to integrate Qt and ESP32 via Bluetooth Low Energy. Demo is using distance sensor and OLED display ESP32 module.
 
 ## Images
 * [QML-Loaders](https://github.com/Furkanzmc/QML-Loaders) - Loading animation implementations in QML.
@@ -321,6 +322,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [RCSE](https://github.com/Rolisteam/rcse) - Rolisteam Character Sheet Editor: easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
 * [QML Coding Guidelines](https://github.com/Furkanzmc/QML-Coding-Guide): A collection of good practices when writing QML code.
 * [Qt6 QML Book](https://www.qt.io/product/qt6/qml-book) - Free book created by Qt Company. It provides you with a walk through of the different aspects of application development using the new Qt 6. It focuses on the Qt Quick technology, but also provides necessary information about writing C++ back-ends and extension for Qt Quick.
+* [Qt and QML tutorial](https://scythe-studio.com/en/blog/qt-qml-tutorials-new-series-by-scythe-studio) - Qt and QML from scratch tutorial created by Scythe Studio. 
 
 # Software
 * [files](https://github.com/lirios/files) - File manager.
