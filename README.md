@@ -49,6 +49,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 ## Apple iOS
 * [quickios](https://github.com/benlau/quickios) - QML Theme and Component Library for iOS.
 * [CuteContacts-iOS](https://github.com/amarchen/CuteContacts-iOS) - Qt/QML-based clone of iOS7 contacts application UI.
+* [Status](https://github.com/status-im/status-mobile) - Messenger, web browser, and crypto wallet (iOS Android)
 
 ## Async
 * [QuickStreams](https://qbeon.github.io/QuickStreams/) - An asynchronous programming library for the QML programming language ([source](https://github.com/qbeon/QuickStreams)).
