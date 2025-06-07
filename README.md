@@ -284,6 +284,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [StratifyQML](https://github.com/StratifyLabs/StratifyQML) - Stratify Labs UI QML framework inspired by Twitter Bootstrap.
 * [FlatUI-Controls-QML](https://github.com/Druage/FlatUI-Controls-QML) - This is custom made and themed QML controls. The controls are made to look and behave just like Flat UI Toolkit.
 * [aqt-stylesheets](https://github.com/Ableton/aqt-stylesheets) - StylesSheets is a library for Qt/QML that allows you to apply CSS stylesheets to QML applications.
+* [Material-Qt](https://github.com/MarkoStanojevic12/Material-Qt) - A fully custom QML library built on the Material design scheme
 
 ## Templates
 * [qpm-qt-creator-project-template](https://github.com/benlau/qpm-qt-creator-project-template) - Qt Creator Project Templates with qpm.
