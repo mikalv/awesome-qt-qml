@@ -107,6 +107,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Sublime-QML](https://github.com/skozlovf/Sublime-QML) - QML support for Sublime Text 2 and Sublime Text 3.
 * [intellij-qml](https://github.com/kropp/intellij-qml) - QML support for IntelliJ-based IDEs.
 * [atom-language-qml](https://github.com/rschiang/atom-language-qml) - QML language support for Atom.
+* [QodeAssist](https://github.com/Palm1r/QodeAssist) - AI-powered opensource coding assistant plugin for Qt Creator.
 
 ## Game Engine
 * [Bacon2D](https://github.com/Bacon2D/Bacon2D) - Bacon2D is a framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
