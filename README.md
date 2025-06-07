@@ -323,7 +323,8 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [RCSE](https://github.com/Rolisteam/rcse) - Rolisteam Character Sheet Editor: easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
 * [QML Coding Guidelines](https://github.com/Furkanzmc/QML-Coding-Guide): A collection of good practices when writing QML code.
 * [Qt6 QML Book](https://www.qt.io/product/qt6/qml-book) - Free book created by Qt Company. It provides you with a walk through of the different aspects of application development using the new Qt 6. It focuses on the Qt Quick technology, but also provides necessary information about writing C++ back-ends and extension for Qt Quick.
-* [Qt and QML tutorial](https://scythe-studio.com/en/blog/qt-qml-tutorials-new-series-by-scythe-studio) - Qt and QML from scratch tutorial created by Scythe Studio. 
+* [Qt and QML tutorial](https://scythe-studio.com/en/blog/qt-qml-tutorials-new-series-by-scythe-studio) - Qt and QML from scratch tutorial created by Scythe Studio.
+* [Learn QML in Y Minutes](https://learnxinyminutes.com/docs/qml): A short overview of QML language fundamentals to familirize yourself to get started with QML programming.
 
 # Software
 * [files](https://github.com/lirios/files) - File manager.
