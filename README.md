@@ -348,6 +348,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [SerialTest](https://github.com/wh201906/SerialTest) - Debugging serial port/Bluetooth SPP/BLE/TCP server/TCP client/UDP connections on Windows/Linux/Android.
 * [ScheduledPCTasks](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys) - GUI based scheduler and automation tool for PC user actions simulations
 * [ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screenshot program.
+* [QVGE](https://github.com/ArsMasiuk/qvge) - Qt Visual Graph Editor.
 
 # Websites
 * [inqlude.org](https://inqlude.org) - Website that list a lot of Qt/QML projects.
