@@ -310,6 +310,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [QDjango](http://qdjango.org/) - QDjango is a web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name.
 
 ## X11/Wayland
+* [quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11.
 * [sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager.
 * [QtGreet](https://gitlab.com/marcusbritanicus/QtGreet) - Qt based Wayland display manager for use with [greetd](https://sr.ht/~kennylevinsen/greetd/).
 * [shell](https://github.com/lirios/shell) - QtQuick and Wayland shell for convergence.
