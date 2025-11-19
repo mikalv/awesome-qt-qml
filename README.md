@@ -288,6 +288,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [aqt-stylesheets](https://github.com/Ableton/aqt-stylesheets) - StylesSheets is a library for Qt/QML that allows you to apply CSS stylesheets to QML applications.
 * [Material-Qt](https://github.com/MarkoStanojevic12/Material-Qt) - A fully custom QML library built on the Material design scheme
 * [Rin-UI](https://github.com/RinLit-233-shiroko/Rin-UI) - A Fluent Design-like UI library for Qt Quick (QML)
+* [Muse framework](https://github.com/Advanced-Effects/Muse-Qml-App-Template) - The UI components framework that MuseScore and Audacity use. Intended to be used on desktop!
 
 ## Templates
 * [qpm-qt-creator-project-template](https://github.com/benlau/qpm-qt-creator-project-template) - Qt Creator Project Templates with qpm.
