@@ -349,7 +349,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [QGroundControl](https://github.com/mavlink/qgroundcontrol) - UAV Ground Control Station (Linux, Windows, MacOS, Android, iOS)
 * [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 * [SerialTest](https://github.com/wh201906/SerialTest) - Debugging serial port/Bluetooth SPP/BLE/TCP server/TCP client/UDP connections on Windows/Linux/Android.
-* [ScheduledPCTasks](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys) - GUI based scheduler and automation tool for PC user actions simulations
+* [Tasket++](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys) - GUI based scheduler and automation tool for PC user actions simulations
 * [ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screenshot program.
 * [QVGE](https://github.com/ArsMasiuk/qvge) - Qt Visual Graph Editor.
 
