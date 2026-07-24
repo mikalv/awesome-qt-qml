@@ -353,6 +353,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Tasket++](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys) - GUI based scheduler and automation tool for PC user actions simulations
 * [ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screenshot program.
 * [QVGE](https://github.com/ArsMasiuk/qvge) - Qt Visual Graph Editor.
+* [Vincent](https://github.com/iisacc-Justmoong/Vincent) - Private, local-first raster drawing and handwriting app for Windows, built with Qt 6 and QML.
 
 # Websites
 * [inqlude.org](https://inqlude.org) - Website that list a lot of Qt/QML projects.
