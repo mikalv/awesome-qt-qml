@@ -234,6 +234,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [qml-recorder](https://github.com/sverzegnassi/qml-recorder) - A QML plugin for audio recording.
 * [Elisa](https://community.kde.org/Elisa) - Music Player.
 * [Kamoso](https://github.com/KDE/kamoso) - Webcam Application.
+* [Webcam Settings](https://github.com/tadas-subonis/webcam-settings) - Cross-platform GUI and CLI for discovering, configuring, saving, and restoring webcam controls.
 * [Webvfx](http://rectalogic.github.io/webvfx/) - WebVfx is a video effects framework that allows video effects (filters, transitions etc.) authored using QtQuick.
 
 ## Networking
