@@ -154,6 +154,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 ## JSON
 * [qsyncable](https://github.com/benlau/qsyncable) - A solution of nested Json List Model.
 * [spine-qml-converter](https://github.com/vmatikainen/spine-qml-converter) - Converts Spine by Esoteric Software export json format into native QML items and animations.
+* [QJsonVariant](https://github.com/Romain-Donze/QJsonVariant) - A fast Qt json parser/writer to use directly with QVariant.
 
 ## Logging
 * [qmllogging](https://github.com/muflihun/qmllogging) - Single-header only, Easylogging++ wrapper for advanced logging support for QML applications (unmaintained).
