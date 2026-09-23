@@ -78,6 +78,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [ArchiveQt](https://gitlab.com/marcusbritanicus/libarchive-qt) - A simple Qt based archiving solution with libarchive backend
 
 ## Cryptography
+* [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 * [Qt Cryptographic Architecture (QCA)](https://github.com/KDE/qca/) - Taking a hint from the similarly-named Java Cryptography Architecture, QCA aims to provide a straightforward and cross-platform crypto API, using Qt datatypes and conventions.
 
 ## Database
