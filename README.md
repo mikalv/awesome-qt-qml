@@ -357,6 +357,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Tasket++](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys) - GUI based scheduler and automation tool for PC user actions simulations
 * [ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screenshot program.
 * [QVGE](https://github.com/ArsMasiuk/qvge) - Qt Visual Graph Editor.
+* [Onion Board](https://github.com/Onion-Alien/onion-board) - Windows soundboard built with PySide6 (Qt 6) that plays sounds through the mic into Discord and games, with global hotkeys, an overlay, voice changer, text-to-speech and screen-triggered sounds.
 
 # Websites
 * [inqlude.org](https://inqlude.org) - Website that list a lot of Qt/QML projects.
