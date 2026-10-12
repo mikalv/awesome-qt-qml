@@ -256,6 +256,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [QSsh](https://github.com/lvklabs/QSsh) - SSH and SFTP support for Qt. This project is based on Qt Creator's `libQtcSsh.so`.
 * [qtrest](https://github.com/qtrest/qtrest) - a small and simple REST API client for any Qt/QML application.
 * [QtProtobuf](https://github.com/semlanik/qtprotobuf) - gRPC and Protobuf generator and bindings for Qt framework
+* [dbusqml](https://github.com/alexindigo/dbusqml) - Standalone D-Bus integration for QML, with introspected proxies, reactive properties, asynchronous calls, and exported services.
 
 ## Package Manager
 * [qpm](http://www.qpm.io/) - A package manager for Qt ([source](https://github.com/Cutehacks/qpm)).
