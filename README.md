@@ -163,6 +163,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 ## Math
 * [biginteger](https://github.com/benlau/biginteger) - QML BigInteger library.
 * [QCustomPlot](https://www.qcustomplot.com/index.php/introduction) - is a Qt C++ widget for plotting and data visualization.
+* [NeoQCP](https://github.com/SciQLop/NeoQCP) - Modernized fork of QCustomPlot for Qt 6: GPU rendering through QRhi, zero-copy plotting of millions of points ([docs](https://neoqcp.readthedocs.io/en/latest/), [live demo](https://sciqlop.github.io/NeoQCP/)).
 
 ## Misc
 * [qmlweb](https://github.com/qmlweb/qmlweb) - A QML engine in a web browser.
