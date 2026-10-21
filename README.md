@@ -357,6 +357,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Tasket++](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys) - GUI based scheduler and automation tool for PC user actions simulations
 * [ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screenshot program.
 * [QVGE](https://github.com/ArsMasiuk/qvge) - Qt Visual Graph Editor.
+* [melo](https://github.com/melo-foundation/melo) - A YouTube integrated native desktop music player.
 
 # Websites
 * [inqlude.org](https://inqlude.org) - Website that list a lot of Qt/QML projects.
