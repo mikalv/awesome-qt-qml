@@ -357,6 +357,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Tasket++](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys) - GUI based scheduler and automation tool for PC user actions simulations
 * [ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screenshot program.
 * [QVGE](https://github.com/ArsMasiuk/qvge) - Qt Visual Graph Editor.
+* [AQEMU](https://github.com/chronic8000/aqemu) - Qt GUI for QEMU on Windows and Linux, with native ARM64 WHPX acceleration on Windows on Arm, snapshots and drag-and-drop file copy. Open source (GPLv2); the Microsoft Store build is paid.
 
 # Websites
 * [inqlude.org](https://inqlude.org) - Website that list a lot of Qt/QML projects.
