@@ -310,6 +310,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 ## Visualization
 * [QuickVtk](https://github.com/qCring/QuickVtk) - A VTK prototyping application based on QtQuick/QML.
 * [quickqanava](http://www.destrat.io/quickqanava/) - C++14 network/graph visualization library ([source](https://github.com/cneben/QuickQanava)).
+* [QAccelPlot](https://github.com/michalgrabarczyk/QAccelPlot) - GPU-accelerated plotting library for QML and Qt 6.
 
 ## Web Frameworks
 * [Cutelyst](https://cutelyst.org/) - Cutelyst is a web framework written in C++11 and Qt, performant and inspired in the Perl Catalyst Web Framework. ([source](https://github.com/cutelyst/cutelyst))
