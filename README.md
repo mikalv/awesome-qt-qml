@@ -267,6 +267,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [viewstack.pri](https://github.com/benlau/viewstack.pri) - ViewStack is a wrapper of StackView (QQC2) that provides a stateless interface.
 * [quickcross](https://github.com/benlau/quickcross) - QML Cross Platform Utility Library.
 * [qml-colors](https://gooroo.github.io/qml-colors/) - A library that extends the set of operations with `color` values in QML.
+* [Gaugebox](https://github.com/gaugebox/gaugebox) - Qt 6 replacement for Qt Quick Extras: CircularGauge, Gauge, StatusIndicator and ToggleButton with the Qt 5 API.
 
 ## SDKs
 * [Felgo](https://felgo.com/) - Felgo (previously V-Play Engine) allows easy cross-platform mobile games and apps development for all major platforms including iOS, Android, BlackBerry.
