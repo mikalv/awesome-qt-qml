@@ -357,6 +357,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Tasket++](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys) - GUI based scheduler and automation tool for PC user actions simulations
 * [ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screenshot program.
 * [QVGE](https://github.com/ArsMasiuk/qvge) - Qt Visual Graph Editor.
+* [Vaquero](https://github.com/BitWise-0x/Vaquero) - macOS app built with PySide6 that finds every photo and video of a person by face, fully offline, using ONNX Runtime and Core ML.
 
 # Websites
 * [inqlude.org](https://inqlude.org) - Website that list a lot of Qt/QML projects.
