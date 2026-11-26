@@ -292,6 +292,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Rin-UI](https://github.com/RinLit-233-shiroko/Rin-UI) - A Fluent Design-like UI library for Qt Quick (QML)
 * [Muse framework](https://github.com/Advanced-Effects/Muse-Qml-App-Template) - The UI components framework that MuseScore and Audacity use. Intended to be used on desktop!
 * [HuskarUI](https://github.com/mengps/HuskarUI) - A Web Ant-Design UI Kits for Qt Quick (QML)
+* [Fluent-Qt](https://github.com/calvinhxx/Fluent-Qt) - MIT-licensed native C++17 Fluent Design component library for Qt Widgets (Qt 5.15+ / 6.2+) with PySide6 bindings, Qt Designer plugin, and WebAssembly support.
 
 ## Templates
 * [qpm-qt-creator-project-template](https://github.com/benlau/qpm-qt-creator-project-template) - Qt Creator Project Templates with qpm.
