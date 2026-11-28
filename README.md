@@ -357,6 +357,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [Tasket++](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys) - GUI based scheduler and automation tool for PC user actions simulations
 * [ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screenshot program.
 * [QVGE](https://github.com/ArsMasiuk/qvge) - Qt Visual Graph Editor.
+* [Ploq](https://github.com/specialith/ploq-app) - Real-time collaboration for MuseScore: several people edit the same score at once. Qt/QML app forked from MuseScore Studio.
 
 # Websites
 * [inqlude.org](https://inqlude.org) - Website that list a lot of Qt/QML projects.
